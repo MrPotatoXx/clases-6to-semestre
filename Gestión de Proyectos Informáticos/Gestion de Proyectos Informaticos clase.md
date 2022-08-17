@@ -2,7 +2,7 @@
 
 ## Recursos a usar
 
-[simultrain](https://www.simultrain.swiss/simultrain.swiss)
+[simultrain](https://www.simultrain.swiss/)
 
 ## Clase 1 (16/08)
 
