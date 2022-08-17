@@ -29,9 +29,9 @@ Archivos a leer de conocimiento previo
 
 3. Idear un proyecto de negocio (Emprendimiento) Ojalá inovador
 
-    - <input type="checkbox" disabled checked /> Servicio para administracion de granjas
+    - [x] Servicio para administracion de granjas
 
-    - <input type="checkbox" disabled /> Educacion Didactica
+    - [] Educacion Didactica
 
 
 ### Mercado objetivo
