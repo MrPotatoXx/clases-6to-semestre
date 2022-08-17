@@ -1,1 +1,1 @@
-# clases-6to-semestre
+# Clases del Potato de 6to semestre de ingeniería de informática
