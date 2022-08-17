@@ -6,6 +6,8 @@
 
 ## Clase 1 (16/08)
 
+- [PPT1](https://potatox.me/clases-6to-semestre/gestion-proyectos-informaticos/PMInacapClase1-Unidad1-Introducci%C3%B3n.pdf)
+
 Un proyecto es un esfuerzo temporal quese lleva a cabo para crear un producto
 
 Características de un Proyecto:
