@@ -31,7 +31,7 @@ Archivos a leer de conocimiento previo
 
     - [x] Servicio para administracion de granjas
 
-    - [] Educacion Didactica
+    - [ ] Educacion Didactica
 
 
 ### Mercado objetivo
