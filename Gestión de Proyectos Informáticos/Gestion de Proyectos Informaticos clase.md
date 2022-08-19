@@ -21,3 +21,12 @@ Características de un Proyecto:
 
 Los proyectos son un medio para materializar la estrategia de una empresa
 u organización
+
+## Clase 2 (17/08)
+
+Proyecto NO es lo mismo que un preoducto
+
+Producto es lo que se vende y proyecto es el desarrolo del producto
+
+Un proyecto crea un producto
+
